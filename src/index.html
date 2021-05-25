@@ -5,13 +5,35 @@
     <title>Cifrado Cesar</title>
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
-    <div id="root">
+    <div id="paginaUno">
       <h1>S.O.S Mujeres</h1>
       <h2>Hola, este es un espacio seguro para ayudarte</h2>
-      <p><button onclick="pasarPagina()" class="button" id="comenzar">Comenzar</button></p>
-
-      <script src="index.js"></script>
+      <button id = "pasarPagina" class="button" id="comenzar">Comenzar</button>
     </div>
-  </body>
+    <div id="paginaDos">
+    <h1>Ingresa el mensaje:</h1>
+    
+  <input type="text" id="mensaje" name="mensaje">
+  <h2> Ingresa el numero de desplazamiento:</h2>
+  <br><br>
+  <input type="number" id= "numero" min="1" max="9" required="required"><br><br>
+  <br><br>
+
+  <button class="button"  id="cifrar">Cifrar</button>
+  <div>
+
+  <p>Palabra cifrada:</p>
+  <input id="textocifrado" type="text"><br><br>
+
+  <button class="button" id="Descifrar">Descifrar</button>
+  <p>Palabra Decifrada:</p>   
+  <br><br>
+  <input type="text" id="palabraDescifrada" name="palabraDescifrada">
+</form>
+
+<script src="index.js" type="module"></script>
+  
+</body>
 </html>
