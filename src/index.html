@@ -12,29 +12,26 @@
       <h2>Hola, este es un espacio seguro para ayudarte</h2>
       <button id = "pasarPagina" class="button" id="comenzar">Comenzar</button>
     </div>
+
     <div id="paginaDos">
-    <h1>Ingresa el mensaje:</h1>
+      <h1>Ingresa el mensaje:</h1>
+      <input type="text" id="mensaje" name="mensaje" required="required">
+      <h2> Número de desplazamiento:</h2>
+      <input type="number" id= "numero" min="1" max="9" required="required"><br><br>
+      <br><br>
+      <button type=submit class="button" id="cifrar">Cifrar</button>
+    </div>
+
+    <div id="paginaTres"> 
+      <p>Palabra cifrada:</p>
+      <input id="textocifrado" type="text"><br><br>
+      <button class="button" id="compartir">Compartir</button>
     
-  <input type="text" id="mensaje" name="mensaje" required="required">
-  <h2> Número de desplazamiento:</h2>
-  
-  <input type="number" id= "numero" min="1" max="9" required="required"><br><br>
-  <br><br>
-
-  <button type=submit class="button" id="cifrar">Cifrar</button>
-  <div>
-
-  <div id="paginaTres"> 
-  <p>Palabra cifrada:</p>
-  <input id="textocifrado" type="text"><br><br>
-  <button class="button" id="compartir">Compartir</button>
- 
-  <button class="button" id="Descifrar">Descifrar</button>
-  <p>Palabra Decifrada:</p>   
-  <br><br>
-  <input type="text" id="palabraDescifrada" name="palabraDescifrada">
-</div>
-</form>
+      <button class="button" id="Descifrar">Descifrar</button>
+      <p>Palabra Decifrada:</p>   
+      <br><br>
+      <input type="text" id="palabraDescifrada" name="palabraDescifrada">
+    </div>
 
 <script src="index.js" type="module"></script>
   

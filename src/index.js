@@ -8,14 +8,12 @@ document.getElementById("pasarPagina").addEventListener("click", function() {
   });
 
 document.getElementById("cifrar").addEventListener("click", function() {
+    document.getElementById("paginaDos").style.display = "none";
+    document.getElementById("paginaTres").style.display = "block";
     let string = document.getElementById("mensaje").value;
     let offset = parseInt(document.getElementById("numero").value);
     document.getElementById("textocifrado").value = cipher.encode(offset, string);
   });
   
-  document.getElementById("cifrar").addEventListener("click", function() {
-    document.getElementById("paginaDos").style.display = "none";
-    document.getElementById("paginaTres").style.display = "block";
-  });
 
 
