@@ -12,3 +12,6 @@ Nuestras principales usuarias son mujeres que se vean expuestas a casos de viole
 
 ## 3.Abarcando necesidades de las usuarias.
 Con nuestra página web buscamos entregarle un producto ágil a nuestras usuarias, debido a que en el momento que ellas requieran nuestro servicio no se encuentren con trabas o limitaciones que le compliquen su experiencia de usuario, dadas las circunstancias en la cual recurririan a nuestra aplicación.
+
+## 4. Prototipos.
+
