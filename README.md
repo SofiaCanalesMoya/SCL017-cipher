@@ -22,7 +22,7 @@ Con nuestra página web buscamos entregarle un producto ágil a nuestras usuaria
 <br> <br>
 *Prototipo 3* ![](src/Prototipo_3.jpg)
 <br> <br>
-*Paletas de colores*![](src/Paleta_de_colores.jpeg)
+*Paletas de colores* ![](src/Paleta_de_colores.jpeg)
 <br> <br>
 
 ### Prototipos de Alta Fidelidad:
