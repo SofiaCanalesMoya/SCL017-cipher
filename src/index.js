@@ -14,6 +14,9 @@ document.getElementById("cifrar").addEventListener("click", function() {
     let offset = parseInt(document.getElementById("numero").value);
     document.getElementById("textocifrado").value = cipher.encode(offset, string);
   });
-  
 
+document.getElementById("descifrar").addEventListener("click", function() {
+    document.getElementById("paginaDos").style.display = "none";
+    document.getElementById("paginaCuatro").style.display = "block";
+});
 
