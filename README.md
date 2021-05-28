@@ -14,21 +14,21 @@ Nuestras principales usuarias son mujeres que se vean expuestas a casos de viole
 Con nuestra página web buscamos entregarle un producto ágil a nuestras usuarias, debido a que en el momento que ellas requieran nuestro servicio no se encuentren con trabas o limitaciones que le compliquen su experiencia de usuario, dadas las circunstancias en la cual recurririan a nuestra aplicación.
 
 ## 4. Prototipos. <br>
-### Prototipos de Baja Fidelidad: <br>
-*Prototipo 1* ![](src/Prototipo_1.jpeg)
-<br> <br>
+### Prototipos de Baja Fidelidad:<br>
+*Prototipo 1* ![](src/Prototipo_1.jpeg) <br> 
+ <br>
 *Prototipo 2* ![](src/Prototipo_2.jpeg)
-<br> <br>
+ <br> <br>
 *Prototipo 3* ![](src/Prototipo_3.jpg)
-<br> <br>
+ <br> <br>
 *Paletas de colores* ![](src/Paleta_de_colores.jpeg)
-<br> <br>
+ <br> <br>
 ### Prototipos de Alta Fidelidad:<br>
 *Pantalla 1* ![](src/Pantalla_1.png)
-<br> <br>
+ <br> <br>
 *Pantalla 2* ![](src/Pantalla_2.png)
-<br> <br>
+ <br> <br>
 *Pantalla 3* ![](src/Panatalla_3.png)
-<br> <br>
+ <br> <br>
 *Pantalla 4* ![](src/Panatalla_4.png)
-<br> <br>
+ <br> <br>
