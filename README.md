@@ -1,4 +1,4 @@
-# Cifrado César
+ # Cifrado César
 
 ## Preámbulo
 La violencia contra las mujeres es una pandemia mundial, y América Latina y el Caribe es la región más violenta para ellas. Esto, en gran medida, se atribuye a que la cultura patriarcal tan arraigada rige prácticamente todas las costumbres y prácticas de la vida diaria, las cuales han relegado y limitado los derechos y libertades de las mujeres.
@@ -15,8 +15,8 @@ Con nuestra página web buscamos entregarle un producto ágil a nuestras usuaria
 
 ## 4. Prototipos. <br>
 ### Prototipos de Baja Fidelidad:<br>
-*Prototipo 1* ![](src/Prototipo_1.jpeg) <br> 
- <br>
+*Prototipo 1* ![](src/Prototipo_1.jpeg) 
+ <br> <br>
 *Prototipo 2* ![](src/Prototipo_2.jpeg)
  <br> <br>
 *Prototipo 3* ![](src/Prototipo_3.jpg)
