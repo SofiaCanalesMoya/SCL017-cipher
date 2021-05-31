@@ -17,9 +17,9 @@
     <div id="paginaDos">
       <img src="https://res.cloudinary.com/esnese/image/upload/v1622316235/71e497eee9d714dd910ca736b8ae22f5_fzbrh5_wmwtp3.png">
       <h1>Ingresa el mensaje:</h1>
-      <input type="text" id="mensaje" name="mensaje" required="required">
+      <input type="text" id="mensaje" name="mensaje" pattern="{a,b,c}" required>
       <h2> Número de desplazamiento:</h2>
-      <input type="number" id= "numero" min="1" max="9" required="required"><br><br>
+      <input type="number" id= "numero" min="1" max="9" required><br><br>
       <br><br>
       <button type=submit class="button" id="cifrar">Cifrar</button>
       <button type=submit class="button" id="descifrar">Descifrar</button>
@@ -31,12 +31,12 @@
       <input id="textocifrado" type="text"><br><br>
       <button type=submit class="button" id="compartir">Compartir</button>
     </div>
-
-    <div id="paginaCuatro" >
+    <div id="paginaCuatro">
       <img src="https://res.cloudinary.com/esnese/image/upload/v1622316235/71e497eee9d714dd910ca736b8ae22f5_fzbrh5_wmwtp3.png">
-      <p></p>   
-      <br><br>
-      <input type="text" id="palabraDescifrada" name="palabraDescifrada">
+      <p>Palabra Descifrada:</p>   
+      <br><br><br><br>
+      <input type="text" id="textodescifrado"><br><br>
+      <button type=submit class="button" id="compartir">Compartir</button>
     </div>
 
 <script src="index.js" type="module"></script>

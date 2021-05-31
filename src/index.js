@@ -12,11 +12,22 @@ document.getElementById("cifrar").addEventListener("click", function() {
     document.getElementById("paginaTres").style.display = "block";
     let string = document.getElementById("mensaje").value;
     let offset = parseInt(document.getElementById("numero").value);
+    if(string === ""){
+        alert("Recuerda rellenar los campos solicitados")
+    
+    }
     document.getElementById("textocifrado").value = cipher.encode(offset, string);
-  });
+});
 
 document.getElementById("descifrar").addEventListener("click", function() {
     document.getElementById("paginaDos").style.display = "none";
     document.getElementById("paginaCuatro").style.display = "block";
+    let string = document.getElementById("mensaje").value;
+    let offset = parseInt(document.getElementById("numero").value);
+    if(string === ""){
+    
+    }
+
+    document.getElementById("textodescifrado").value = cipher.encode(offset*-1, string)
 });
 
