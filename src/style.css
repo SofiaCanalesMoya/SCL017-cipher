@@ -180,14 +180,6 @@ color: #985762;
   
 }
 
-img {
-  position: absolute;
-  width: 156px;
-  height: 154px;
-  left: 1119px;
-  top: 130px;
-}
-
 #paginaTres{
   display: none;
 }
@@ -324,4 +316,12 @@ img {
   text-align: center;
 
   color: #985762;
+}
+
+img {
+  position: absolute;
+  width: 156px;
+  height: 154px;
+  left: 1119px;
+  top: 130px;
 }
