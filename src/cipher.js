@@ -7,10 +7,7 @@ const cipher = {
     for(let i=0; i<arrayLetras.length; i++) {
         const letra = arrayLetras[i] // i: 0 | letra: H // i: 1: | letra: O
         let numero = letra.charCodeAt(0) // numero: 72 // numero: 79
-        if( numero == 32){
-         
-        }
-        if(numero < 65 || numero > 90) {
+        if(numero !==32 && numero < 65 || numero > 90) {
           alert("ERROR")
           return "";
         }
