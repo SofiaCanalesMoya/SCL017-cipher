@@ -37,7 +37,5 @@ const cipher = {
     return palabraDescifrada
   }
  
-};
-  
-  
+}; 
 export default cipher;
